@@ -1,0 +1,183 @@
+Country,Area,Group
+Afghanistan,asia,asia_west
+Albania,europe,europe_east
+Algeria,africa,africa_north
+Angola,africa,africa_sub_saharan
+Antigua and Barbuda,americas,america_north
+Argentina,americas,america_south
+Armenia,europe,europe_east
+Australia,asia,east_asia_pacific
+Austria,europe,europe_west
+Azerbaijan,europe,europe_east
+Bahamas,americas,america_north
+Bahrain,asia,asia_west
+Bangladesh,asia,asia_west
+Barbados,americas,america_north
+Belarus,europe,europe_east
+Belgium,europe,europe_west
+Belize,americas,america_north
+Benin,africa,africa_sub_saharan
+Bhutan,asia,asia_west
+Bolivia,americas,america_south
+Bosnia and Herzegovina,europe,europe_east
+Botswana,africa,africa_sub_saharan
+Brazil,americas,america_south
+Brunei,asia,east_asia_pacific
+Bulgaria,europe,europe_east
+Burkina Faso,africa,africa_sub_saharan
+Burundi,africa,africa_sub_saharan
+Cambodia,asia,east_asia_pacific
+Cameroon,africa,africa_sub_saharan
+Canada,americas,america_north
+Cape Verde,africa,africa_sub_saharan
+Central African Republic,africa,africa_sub_saharan
+Chad,africa,africa_sub_saharan
+Chile,americas,america_south
+China,asia,east_asia_pacific
+Colombia,americas,america_south
+Comoros,africa,africa_sub_saharan
+"Congo, Dem. Rep.",africa,africa_sub_saharan
+"Congo, Rep.",africa,africa_sub_saharan
+Costa Rica,americas,america_north
+Cote d'Ivoire,africa,africa_sub_saharan
+Croatia,europe,europe_east
+Cuba,americas,america_north
+Cyprus,europe,europe_west
+Czech Republic,europe,europe_east
+Denmark,europe,europe_west
+Djibouti,africa,africa_north
+Dominican Republic,americas,america_north
+Ecuador,americas,america_south
+Egypt,africa,africa_north
+El Salvador,americas,america_north
+Equatorial Guinea,africa,africa_sub_saharan
+Eritrea,africa,africa_sub_saharan
+Estonia,europe,europe_east
+Ethiopia,africa,africa_sub_saharan
+Fiji,asia,east_asia_pacific
+Finland,europe,europe_east
+France,europe,europe_west
+Gabon,africa,africa_sub_saharan
+Gambia,africa,africa_sub_saharan
+Georgia,europe,europe_east
+Germany,europe,europe_west
+Ghana,africa,africa_sub_saharan
+Greece,europe,europe_west
+Grenada,americas,america_north
+Guatemala,americas,america_north
+Guinea,africa,africa_sub_saharan
+Guinea-Bissau,africa,africa_sub_saharan
+Guyana,americas,america_south
+Haiti,americas,america_north
+Honduras,americas,america_north
+Hungary,europe,europe_east
+Iceland,europe,europe_west
+India,asia,asia_west
+Indonesia,asia,east_asia_pacific
+Iran,asia,asia_west
+Iraq,asia,asia_west
+Ireland,europe,europe_west
+Israel,asia,asia_west
+Italy,europe,europe_west
+Jamaica,americas,america_north
+Japan,asia,east_asia_pacific
+Jordan,asia,asia_west
+Kazakhstan,asia,asia_west
+Kenya,africa,africa_sub_saharan
+Kiribati,asia,east_asia_pacific
+Kuwait,asia,asia_west
+Kyrgyz Republic,asia,asia_west
+Lao,asia,east_asia_pacific
+Latvia,europe,europe_east
+Lebanon,asia,asia_west
+Lesotho,africa,africa_sub_saharan
+Liberia,africa,africa_sub_saharan
+Libya,africa,africa_north
+Lithuania,europe,europe_east
+Luxembourg,europe,europe_west
+"Macedonia, FYR",europe,europe_east
+Madagascar,africa,africa_sub_saharan
+Malawi,africa,africa_sub_saharan
+Malaysia,asia,east_asia_pacific
+Maldives,asia,asia_west
+Mali,africa,africa_sub_saharan
+Malta,europe,europe_west
+Mauritania,africa,africa_sub_saharan
+Mauritius,africa,africa_sub_saharan
+Mexico,americas,america_north
+"Micronesia, Fed. Sts.",asia,east_asia_pacific
+Moldova,europe,europe_east
+Mongolia,asia,east_asia_pacific
+Montenegro,europe,europe_east
+Morocco,africa,africa_north
+Mozambique,africa,africa_sub_saharan
+Myanmar,asia,east_asia_pacific
+Namibia,africa,africa_sub_saharan
+Nepal,asia,asia_west
+Netherlands,europe,europe_west
+New Zealand,asia,east_asia_pacific
+Nicaragua,americas,america_north
+Niger,africa,africa_sub_saharan
+Nigeria,africa,africa_sub_saharan
+North Korea,asia,east_asia_pacific
+Norway,europe,europe_west
+Oman,asia,asia_west
+Pakistan,asia,asia_west
+Panama,americas,america_north
+Papua New Guinea,asia,east_asia_pacific
+Paraguay,americas,america_south
+Peru,americas,america_south
+Philippines,asia,east_asia_pacific
+Poland,europe,europe_west
+Portugal,europe,europe_west
+Qatar,asia,asia_west
+Romania,europe,europe_east
+Russia,europe,europe_east
+Rwanda,africa,africa_sub_saharan
+Samoa,asia,east_asia_pacific
+Sao Tome and Principe,africa,africa_sub_saharan
+Saudi Arabia,asia,asia_west
+Senegal,africa,africa_sub_saharan
+Serbia,europe,europe_east
+Seychelles,africa,africa_sub_saharan
+Sierra Leone,africa,africa_sub_saharan
+Singapore,asia,east_asia_pacific
+Slovak Republic,europe,europe_east
+Slovenia,europe,europe_east
+Solomon Islands,asia,east_asia_pacific
+Somalia,africa,africa_sub_saharan
+South Africa,africa,africa_sub_saharan
+South Korea,asia,east_asia_pacific
+Spain,europe,europe_west
+Sri Lanka,asia,asia_west
+St. Lucia,americas,america_north
+St. Vincent and the Grenadines,americas,america_north
+Sudan,africa,africa_sub_saharan
+Suriname,americas,america_south
+Swaziland,africa,africa_sub_saharan
+Sweden,europe,europe_west
+Switzerland,europe,europe_west
+Syria,asia,asia_west
+Tajikistan,asia,asia_west
+Tanzania,africa,africa_sub_saharan
+Thailand,asia,east_asia_pacific
+Timor-Leste,asia,east_asia_pacific
+Togo,africa,africa_sub_saharan
+Tonga,asia,east_asia_pacific
+Trinidad and Tobago,americas,america_north
+Tunisia,africa,africa_north
+Turkey,europe,europe_east
+Turkmenistan,asia,asia_west
+Uganda,africa,africa_sub_saharan
+Ukraine,europe,europe_east
+United Arab Emirates,asia,asia_west
+United Kingdom,europe,europe_west
+United States,americas,america_north
+Uruguay,americas,america_south
+Uzbekistan,asia,asia_west
+Vanuatu,asia,east_asia_pacific
+Venezuela,americas,america_south
+Vietnam,asia,east_asia_pacific
+Yemen,asia,asia_west
+Zambia,africa,africa_sub_saharan
+Zimbabwe,africa,africa_sub_saharan
